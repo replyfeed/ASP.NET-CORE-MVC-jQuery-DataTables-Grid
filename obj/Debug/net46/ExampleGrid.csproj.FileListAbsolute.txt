@@ -1,0 +1,269 @@
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\ExampleGrid.exe.config
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\ExampleGrid.deps.json
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\ExampleGrid.exe
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\ExampleGrid.pdb
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\libuv.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.ApplicationInsights.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AI.Agent.Intercept.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.ApplicationInsights.AspNetCore.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AI.DependencyCollector.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Antiforgery.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Authorization.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Cors.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Cryptography.Internal.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.DataProtection.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Diagnostics.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Hosting.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Html.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Http.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Http.Extensions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Http.Features.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.HttpOverrides.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.JsonPatch.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Localization.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Core.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Cors.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Localization.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Razor.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Razor.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Razor.Runtime.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Routing.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Routing.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Server.IISIntegration.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Server.Kestrel.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.StaticFiles.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.WebUtilities.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.CodeAnalysis.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.DotNet.PlatformAbstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Caching.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Caching.Memory.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Configuration.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Configuration.Binder.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Configuration.Json.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.DependencyModel.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.DiagnosticAdapter.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.FileProviders.Composite.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.FileProviders.Physical.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Localization.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Localization.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Logging.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Logging.Abstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Logging.Console.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Logging.Debug.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.ObjectPool.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Options.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.PlatformAbstractions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Primitives.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.WebEncoders.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Net.Http.Headers.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.VisualStudio.Web.BrowserLink.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Win32.Primitives.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Newtonsoft.Json.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.AppContext.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Buffers.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Collections.Immutable.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.ComponentModel.Primitives.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.ComponentModel.TypeConverter.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Console.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Diagnostics.DiagnosticSource.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Diagnostics.FileVersionInfo.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Diagnostics.StackTrace.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Globalization.Calendars.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.IO.Compression.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.IO.Compression.ZipFile.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.IO.FileSystem.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.IO.FileSystem.Primitives.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Net.Http.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Net.Sockets.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Numerics.Vectors.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Reflection.Metadata.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Security.Cryptography.Algorithms.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Security.Cryptography.Encoding.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Security.Cryptography.Primitives.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Security.Cryptography.X509Certificates.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Text.Encoding.CodePages.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Text.Encodings.Web.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Threading.Tasks.Extensions.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Threading.Thread.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Xml.ReaderWriter.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Xml.XmlDocument.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Xml.XPath.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Xml.XPath.XDocument.dll
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\obj\Debug\net46\ExampleGrid.csprojResolveAssemblyReference.cache
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\obj\Debug\net46\ExampleGrid.csproj.ExampleGrid.exe.config
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\obj\Debug\net46\ExampleGrid.csproj.CoreCompileInputs.cache
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\obj\Debug\net46\ExampleGrid.AssemblyInfoInputs.cache
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\obj\Debug\net46\ExampleGrid.AssemblyInfo.cs
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\obj\Debug\net46\ExampleGrid.exe
+c:\users\sai\documents\visual studio 2017\Projects\ExampleGrid\ExampleGrid\obj\Debug\net46\ExampleGrid.pdb
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\Remotion.Linq.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Interactive.Async.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Linq.Dynamic.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\appsettings.Development.json
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\appsettings.json
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\bower.json
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\bundleconfig.json
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Properties\launchSettings.json
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\ExampleGrid.exe.config
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\ExampleGrid.deps.json
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\ExampleGrid.exe
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\ExampleGrid.pdb
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.ApplicationInsights.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AI.DependencyCollector.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Authorization.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Cors.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Hosting.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Http.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Localization.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Razor.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Routing.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.CodeAnalysis.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.EntityFrameworkCore.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Configuration.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Localization.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Logging.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Logging.Console.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.ObjectPool.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Options.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.Primitives.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Extensions.WebEncoders.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Net.Http.Headers.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Microsoft.Win32.Primitives.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Newtonsoft.Json.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\Remotion.Linq.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.AppContext.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Buffers.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Collections.Immutable.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.ComponentModel.Primitives.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.ComponentModel.TypeConverter.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Console.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Diagnostics.StackTrace.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Globalization.Calendars.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Interactive.Async.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.IO.Compression.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.IO.Compression.ZipFile.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.IO.FileSystem.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.IO.FileSystem.Primitives.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Linq.Dynamic.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Net.Http.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Net.Sockets.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Numerics.Vectors.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Reflection.Metadata.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Security.Cryptography.Algorithms.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Security.Cryptography.Encoding.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Security.Cryptography.Primitives.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Text.Encoding.CodePages.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Text.Encodings.Web.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Threading.Tasks.Extensions.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Threading.Thread.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Xml.ReaderWriter.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Xml.XmlDocument.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Xml.XPath.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\System.Xml.XPath.XDocument.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\bin\Debug\net46\libuv.dll
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\obj\Debug\net46\ExampleGrid.csprojAssemblyReference.cache
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\obj\Debug\net46\ExampleGrid.exe.config
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\obj\Debug\net46\ExampleGrid.AssemblyInfoInputs.cache
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\obj\Debug\net46\ExampleGrid.AssemblyInfo.cs
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\obj\Debug\net46\ExampleGrid.csproj.CopyComplete
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\obj\Debug\net46\ExampleGrid.exe
+C:\Users\CESAR\Downloads\ExampleGrid\ExampleGrid\ExampleGrid\obj\Debug\net46\ExampleGrid.pdb
